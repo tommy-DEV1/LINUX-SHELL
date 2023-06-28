@@ -28,7 +28,7 @@ Now you can run the shell by invoking:
 ```
 ./shell
 ```
-##Features Implemented 
+## Features Implemented 
 ```
 cd: Will change the directory to the mentioned file
 cd..:Will go back to the last visited directory
