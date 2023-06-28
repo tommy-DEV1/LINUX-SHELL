@@ -12,7 +12,7 @@ int numberOfBuiltins = sizeof(builtins) / sizeof(struct builtinStruct);
 int byteShellHelp(int argc, char **args)
 {
     int i;
-    printf("Raiwat Bapat's ByteShell\n");
+    printf("This is Shrey Gupta's ByteShell\n");
     printf("Type program names and arguments, and hit enter.\n");
     printf("The following (apart from exit) are built in :\n");
 
