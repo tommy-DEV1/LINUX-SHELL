@@ -29,10 +29,12 @@ Now you can run the shell by invoking:
 ./shell
 ```
 ## Features Implemented 
-```
-**cd**: Will change the directory to the mentioned file
-**cd..**:Will go back to the last visited directory
-**ls**:Will display all the files present in the current directory
-**help**:Will display information about the built-ins present in the shell
-**exit**:Will exit the shell
-```
+cd: Will change the directory to the mentioned file
+
+cd..:Will go back to the last visited directory
+
+ls:Will display all the files present in the current directory
+
+help:Will display information about the built-ins present in the shell
+
+exit:Will exit the shell
